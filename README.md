@@ -11,4 +11,4 @@
       ระดับพนักงาน HR ทั่วไป Username : 111111 Password : 010143
       ระดับพนักงานทั่วไป Username : 00000 Password : 271043
       
-File ฐานข้อมูลชื่อ : leave_memom.sqp
+File ฐานข้อมูลชื่อ : leave_memom.sql
