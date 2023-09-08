@@ -6,7 +6,7 @@
 
 
 ทดสอบการเข้าใช้งานระบบ 
-ระดับผู้จัดการ HR Username : 22222 Password :221243
+ระดับผู้จัดการ HR Username : 22222 Password : 221243
 
 
 ระดับพนักงาน HR ทั่วไป Username : 111111 Password : 010143
