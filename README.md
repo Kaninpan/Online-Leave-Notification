@@ -19,7 +19,3 @@
       Username : 00000 
       Password : 271043
       
-File ฐานข้อมูลชื่อ : leave_memom.sql
-(1, 'Kanin', '00000', '271043', 'Manager IT', 'User'),
-(2, 'kanomprang', '11111', '010143', 'HR ทั่วไป', 'HR'),
-(3, 'Kawasaki ', '22222', '221242', 'HR Manager', 'Head of HR');
