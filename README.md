@@ -9,10 +9,10 @@
 
       ระดับผู้จัดการ HR Manager 
       Username : 22222 
-      Password : 221243
+      Password : 221242
       
       ระดับพนักงาน HR ทั่วไป 
-      Username : 111111 
+      Username : 11111 
       Password : 010143
       
       ระดับพนักงานทั่วไป 
@@ -20,3 +20,6 @@
       Password : 271043
       
 File ฐานข้อมูลชื่อ : leave_memom.sql
+(1, 'Kanin', '00000', '271043', 'Manager IT', 'User'),
+(2, 'kanomprang', '11111', '010143', 'HR ทั่วไป', 'HR'),
+(3, 'Kawasaki ', '22222', '221242', 'HR Manager', 'Head of HR');
